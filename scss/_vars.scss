@@ -1,0 +1,31 @@
+$xs: 0;
+$sm: 576px;
+$md: 768px;
+$lg: 992px;
+$xl: 1200px;
+$xxl: 1400px;
+
+/* Colors */
+$primary-app: #20c997;
+
+
+.text-primary-app {
+    color: $primary-app;
+}
+
+.bg-primary-app {
+    background-color: $primary-app;
+}
+
+
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+.varela-font{
+    font-family: 'Varela Round', sans-serif;
+}
+
+.container-sm {
+    max-width: 796px;
+}
